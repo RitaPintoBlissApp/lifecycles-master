@@ -50,5 +50,6 @@ public class ChronoActivity2 extends AppCompatActivity {
         }
 
         chronometer.start();
+
     }
 }
